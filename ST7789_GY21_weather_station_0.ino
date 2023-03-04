@@ -214,9 +214,9 @@ void readGY21()
   float t = sht.getTemperature();
   float h = sht.getHumidity();
   float p = 1003.8;
-  bool store = ( millis()-storeTime>2L*1000L );  // store value every 10 second
+  //bool store = ( millis()-storeTime>2L*1000L );  // store value every 10 second
   //bool store = ( millis()-storeTime>60L*60L*1000L );  // store value every 60 minutes
-  //bool store = ( millis()-storeTime>120*1000L ); // store value every 120 seconds
+  bool store = ( millis()-storeTime>120*1000L ); // store value every 120 seconds
   if(t>-20 && t<100) temp.store(t,store);
   if(h>0 && h<100) hum.store(h,store);
   numAvg++;
@@ -349,7 +349,7 @@ void loop()
     drawScreen();
   }
 
-  if(millis()-ms>10000) {  // read the sensor
+  if(millis()-ms>2000) {  // read the sensor
     ms = millis();
     readGY21();
     drawScreen();
