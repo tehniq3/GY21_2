@@ -7,3 +7,5 @@ Sketch used library from:
 - https://github.com/cbm80amiga/Arduino_ST7789_Fast
 - https://github.com/cbm80amiga/RREFont
 - https://github.com/cbm80amiga/DigiFont
+
+![Used schematic](https://github.com/tehniq3/GY21_2/blob/main/GY21_ST7789_sch.png)
