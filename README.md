@@ -20,5 +20,6 @@ Sketch used library from:
 ![mod2_h](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0yRyst1ar_evZbFUlmVm_Ty3YBuYJ1EyQdx-bwLy4Tw17yE35VQ_nGmWE-ldWOHavEl2q55H45suD9CsotMBpDbuX4TwcL5Ohbz05Nnl_z4DNcay-VOqj7IzZt0JLGITbjF86kkvOcpuWZZW_9vJwW9lZPnam2Vj1UUe9ZmkfSl2beS0GZAa992CW1w/w200-h150/mod2_umiditate2.jpg)
 
 - second article: https://nicuflorica.blogspot.com/2023/03/termometruhigrometru-cu-senzor-gy-21-pe_4.html
+
 ![2nd sketch](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdXp4DqyfwhdvXcPJmoy2KViObJI1g7XpdUGgz4PZgw4JQjxh9nTw8zssYf-WBn5s4ZGkU96oM0l_jMnhX5wIYYRM4uOwD00jQh5CujyE57Gkx9Z1DzB3z64X5UqTU4rxbwrfZe3xXUHsQlkh4HLfKm170IYPPZ3511t07Z_Xi7nE2PH7IyWUMGGx2jQ/w200-h150/montajvechicusketchnou.jpg)
 
